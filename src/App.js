@@ -1,12 +1,10 @@
-import logo from './logo.svg';
-import './App.css';
+import logo from "./logo.svg";
+import "./App.css";
 
-function doesWin(firstCardVal, myCardVal, secondCardVal)
-{
-  const wins = myCardVal > firstCardVal && myCardVal < secondCardVal
-  console.log(wins);
+function doesWin(firstCardVal, myCardVal, secondCardVal) {
+  const wins = myCardVal > firstCardVal && myCardVal < secondCardVal;
+  console.log("wins? ", wins);
 }
-
 
 function App() {
   doesWin(2, 5, 7);
