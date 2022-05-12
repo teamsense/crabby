@@ -11,6 +11,7 @@ function App() {
   doesWin(2, 5, 7);
   doesWin(2, 8, 7);
   doesWin(2, 2, 7);
+
   return (
     <Container className="mt-5">
       <h1>Your Cash: $100</h1>
