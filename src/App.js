@@ -1,8 +1,11 @@
 import { Button, Container, Form } from "react-bootstrap";
+import { useState } from 'react'
 
 import "./scss/main.scss";
 
 function App() {
+  const [moneyPool, setMoneyPool] = useState(1000);
+
   function doesWin(firstCardVal, myCardVal, secondCardVal) {
     const wins = myCardVal > firstCardVal && myCardVal < secondCardVal;
     console.log(wins);
@@ -14,7 +17,7 @@ function App() {
 
   return (
     <Container className="mt-5">
-      <h1>Your Cash: $100</h1>
+      <h1>Your Cash: ${moneyPool}</h1>
 
       <section>(Your Cards)</section>
 
