@@ -1,0 +1,270 @@
+{
+    "hearts": [
+        {
+            "name": "A",
+            "value": 1,
+            "image": "https://deckofcardsapi.com/static/img/AH.png"
+        },
+        {
+            "name": "2",
+            "value": 2,
+            "image": "https://deckofcardsapi.com/static/img/2H.png"
+        },
+        {
+            "name": "3",
+            "value": 3,
+            "image": "https://deckofcardsapi.com/static/img/3H.png"
+        },
+        {
+            "name": "4",
+            "value": 4,
+            "image": "https://deckofcardsapi.com/static/img/4H.png"
+        },
+        {
+            "name": "5",
+            "value": 5,
+            "image": "https://deckofcardsapi.com/static/img/5H.png"
+        },
+        {
+            "name": "6",
+            "value": 6,
+            "image": "https://deckofcardsapi.com/static/img/6H.png"
+        },
+        {
+            "name": "7",
+            "value": 7,
+            "image": "https://deckofcardsapi.com/static/img/7H.png"
+        },
+        {
+            "name": "8",
+            "value": 8,
+            "image": "https://deckofcardsapi.com/static/img/8H.png"
+        },
+        {
+            "name": "9",
+            "value": 9,
+            "image": "https://deckofcardsapi.com/static/img/9H.png"
+        },
+        {
+            "name": "10",
+            "value": 10,
+            "image": "https://deckofcardsapi.com/static/img/10H.png"
+        },
+        {
+            "name": "J",
+            "value": 11,
+            "image": "https://deckofcardsapi.com/static/img/JH.png"
+        },
+        {
+            "name": "Q",
+            "value": 12,
+            "image": "https://deckofcardsapi.com/static/img/QH.png"
+        },
+        {
+            "name": "K",
+            "value": 13,
+            "image": "https://deckofcardsapi.com/static/img/KH.png"
+        }
+    ],
+    "diamonds": [
+        {
+            "name": "A",
+            "value": 1,
+            "image": "https://deckofcardsapi.com/static/img/AD.png"
+        },
+        {
+            "name": "2",
+            "value": 2,
+            "image": "https://deckofcardsapi.com/static/img/2D.png"
+        },
+        {
+            "name": "3",
+            "value": 3,
+            "image": "https://deckofcardsapi.com/static/img/3D.png"
+        },
+        {
+            "name": "4",
+            "value": 4,
+            "image": "https://deckofcardsapi.com/static/img/4D.png"
+        },
+        {
+            "name": "5",
+            "value": 5,
+            "image": "https://deckofcardsapi.com/static/img/5D.png"
+        },
+        {
+            "name": "6",
+            "value": 6,
+            "image": "https://deckofcardsapi.com/static/img/6D.png"
+        },
+        {
+            "name": "7",
+            "value": 7,
+            "image": "https://deckofcardsapi.com/static/img/7D.png"
+        },
+        {
+            "name": "8",
+            "value": 8,
+            "image": "https://deckofcardsapi.com/static/img/8D.png"
+        },
+        {
+            "name": "9",
+            "value": 9,
+            "image": "https://deckofcardsapi.com/static/img/9D.png"
+        },
+        {
+            "name": "10",
+            "value": 10,
+            "image": "https://deckofcardsapi.com/static/img/10D.png"
+        },
+        {
+            "name": "J",
+            "value": 11,
+            "image": "https://deckofcardsapi.com/static/img/JD.png"
+        },
+        {
+            "name": "Q",
+            "value": 12,
+            "image": "https://deckofcardsapi.com/static/img/QD.png"
+        },
+        {
+            "name": "K",
+            "value": 13,
+            "image": "https://deckofcardsapi.com/static/img/KD.png"
+        }
+    ],
+    "spades": [
+        {
+            "name": "A",
+            "value": 1,
+            "image": "https://deckofcardsapi.com/static/img/AS.png"
+        },
+        {
+            "name": "2",
+            "value": 2,
+            "image": "https://deckofcardsapi.com/static/img/2S.png"
+        },
+        {
+            "name": "3",
+            "value": 3,
+            "image": "https://deckofcardsapi.com/static/img/3S.png"
+        },
+        {
+            "name": "4",
+            "value": 4,
+            "image": "https://deckofcardsapi.com/static/img/4S.png"
+        },
+        {
+            "name": "5",
+            "value": 5,
+            "image": "https://deckofcardsapi.com/static/img/5S.png"
+        },
+        {
+            "name": "6",
+            "value": 6,
+            "image": "https://deckofcardsapi.com/static/img/6S.png"
+        },
+        {
+            "name": "7",
+            "value": 7,
+            "image": "https://deckofcardsapi.com/static/img/7S.png"
+        },
+        {
+            "name": "8",
+            "value": 8,
+            "image": "https://deckofcardsapi.com/static/img/8S.png"
+        },
+        {
+            "name": "9",
+            "value": 9,
+            "image": "https://deckofcardsapi.com/static/img/9S.png"
+        },
+        {
+            "name": "10",
+            "value": 10,
+            "image": "https://deckofcardsapi.com/static/img/10S.png"
+        },
+        {
+            "name": "J",
+            "value": 11,
+            "image": "https://deckofcardsapi.com/static/img/JS.png"
+        },
+        {
+            "name": "Q",
+            "value": 12,
+            "image": "https://deckofcardsapi.com/static/img/QS.png"
+        },
+        {
+            "name": "K",
+            "value": 13,
+            "image": "https://deckofcardsapi.com/static/img/KS.png"
+        }
+    ],
+    "clubs": [
+        {
+            "name": "A",
+            "value": 1,
+            "image": "https://deckofcardsapi.com/static/img/AC.png"
+        },
+        {
+            "name": "2",
+            "value": 2,
+            "image": "https://deckofcardsapi.com/static/img/2C.png"
+        },
+        {
+            "name": "3",
+            "value": 3,
+            "image": "https://deckofcardsapi.com/static/img/3C.png"
+        },
+        {
+            "name": "4",
+            "value": 4,
+            "image": "https://deckofcardsapi.com/static/img/4C.png"
+        },
+        {
+            "name": "5",
+            "value": 5,
+            "image": "https://deckofcardsapi.com/static/img/5C.png"
+        },
+        {
+            "name": "6",
+            "value": 6,
+            "image": "https://deckofcardsapi.com/static/img/6C.png"
+        },
+        {
+            "name": "7",
+            "value": 7,
+            "image": "https://deckofcardsapi.com/static/img/7C.png"
+        },
+        {
+            "name": "8",
+            "value": 8,
+            "image": "https://deckofcardsapi.com/static/img/8C.png"
+        },
+        {
+            "name": "9",
+            "value": 9,
+            "image": "https://deckofcardsapi.com/static/img/9C.png"
+        },
+        {
+            "name": "10",
+            "value": 10,
+            "image": "https://deckofcardsapi.com/static/img/10C.png"
+        },
+        {
+            "name": "J",
+            "value": 11,
+            "image": "https://deckofcardsapi.com/static/img/JC.png"
+        },
+        {
+            "name": "Q",
+            "value": 12,
+            "image": "https://deckofcardsapi.com/static/img/QC.png"
+        },
+        {
+            "name": "K",
+            "value": 13,
+            "image": "https://deckofcardsapi.com/static/img/KC.png"
+        }
+    ]
+}
