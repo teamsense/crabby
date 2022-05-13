@@ -1,14 +1,15 @@
 import { Button, Container, Form } from "react-bootstrap";
-import { useState } from 'react'
+import { useState } from "react";
 
 import "./scss/main.scss";
+
+import RandomizedCard from "./components/RandomizedCard";
 
 function App() {
   const [moneyPool, setMoneyPool] = useState(1000);
 
   function doesWin(firstCardVal, myCardVal, secondCardVal) {
     const wins = myCardVal > firstCardVal && myCardVal < secondCardVal;
-    console.log(wins);
   }
 
   doesWin(2, 5, 7);
@@ -25,6 +26,9 @@ function App() {
         <Form.Label>Amount to Bet?</Form.Label>
         <Form.Control type="number" placeholder="Enter Amount" />
       </Form.Group>
+
+      <RandomizedCard />
+
       <Button variant="primary" size="lg">
         BET!
       </Button>
